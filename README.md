@@ -1,3 +1,4 @@
+Fork from https://github.com/Odania-IT/aws-kubectl
 The Docker Image contains the aws-cli and kubectl. It is used to update the AWS ECR credentials periodically in a kubernetes cluster.
 
 # Setup
